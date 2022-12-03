@@ -3,7 +3,7 @@
   <p>🧑‍💻 Front-end Web Developer</p>
   <p>🎶 Code, Debug, Learn, Repeat</p>
   <p>🌱 Learning TypeScript, Next.js</p>
-  <p>❤️‍👉 👪🐕🏞️📷☕💃</p>
+  <p>❤️‍👉 👪🐕🏞️🍔📷☕🎄🧢🍝💃</p>
 <div>
 <br/>  
 
